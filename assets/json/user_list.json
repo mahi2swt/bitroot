@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "id": "erkt945786y68ruy9856",
+            "userName": "Johny Chimpo",
+            "profilePic": "https://randomuser.me/api/portraits/men/9.jpg",
+            "emailId": "johny_chimpo@gmail.com"
+        },
+        {
+            "id": "erkt9457887re8ruy9856",
+            "userName": "John Doe",
+            "profilePic": "https://randomuser.me/api/portraits/men/79.jpg",
+            "emailId": "john_doe@gmail.com"
+        },
+        {
+            "id": "erkwhtwrwe86t5846784",
+            "userName": "Emma Watson",
+            "profilePic": "https://randomuser.me/api/portraits/women/17.jpg",
+            "emailId": "emma_watson@gmail.com"
+        },
+        {
+            "id": "4569845uybnhugifjdhg",
+            "userName": "Gal Gadot",
+            "profilePic": "https://randomuser.me/api/portraits/women/49.jpg",
+            "emailId": "gal_gadot@gmail.com"
+        },
+        {
+            "id": "853v875i34768v7y5678",
+            "userName": "Taylor Swift",
+            "profilePic": "https://randomuser.me/api/portraits/women/72.jpg",
+            "emailId": "taylor@gmail.com"
+          },
+          {
+            "id": "i35ut94y35ti7v345y6ht",
+            "userName": "Ketty Pery",
+            "profilePic": "https://randomuser.me/api/portraits/women/35.jpg",
+            "emailId": "kt_perry@gmail.com"
+          },
+          {
+            "id": "i35ut94y35ti7v345y6ht",
+            "userName": "Bruce Wyan",
+            "profilePic": "https://randomuser.me/api/portraits/men/64.jpg",
+            "emailId": "bruce_wyan@gmail.com"
+          },
+          {
+            "id": "45u369845iyuti45u",
+            "userName": "Tony Stark",
+            "profilePic": "https://randomuser.me/api/portraits/men/54.jpg",
+            "emailId": "tony_stark@gmail.com"
+        }
+    ]
+  }

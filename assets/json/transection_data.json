@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+        "id": "483t57ynh4uytgn7545yhgjf",
+        "itemName": "Apple MacBook Pro 16' - Silver",
+        "price": "4356.09",
+        "brandName": "Apple Store",
+        "returnDate": "2 Weeks",
+        "address": "1342, Colorado Street, Suit 32 - 92003"
+    },
+    {
+        "id": "483t57yterth4uytgn7545yhgjf",
+        "itemName": "Signature Hot Chocolate",
+        "price": "4.5",
+        "brandName": "Starbucks",
+        "returnDate": "0 Days",
+        "address": "1342, Colorado Street, Suit 32 - 92003"
+    },
+    {
+        "id": "4dft57yterth4uytgn7545yhgjf",
+        "itemName": "Apple AirPods Pro",
+        "price": "249.5",
+        "brandName": "Apple Store",
+        "returnDate": "2 Months",
+        "address": "1342, Colorado Street, Suit 32 - 92003"
+    },
+    {
+        "id": "erkt945786y68ruy9856",
+        "itemName": "Nike Air Jorden",
+        "price": "289.0",
+        "brandName": "Nike Store",
+        "returnDate": "1 Months",
+        "address": "1342, Colorado Street, Suit 32 - 92003"
+    },
+    {
+        "id": "erkt945786y68ruy9856",
+        "itemName": "US Polo Casual Jacket",
+        "price": "53.0",
+        "brandName": "US Polo Store",
+        "returnDate": "15 Days",
+        "address": "1342, Colorado Street, Suit 32 - 92003"
+    },
+    {
+        "id": "erkt945786y68ruy9856",
+        "itemName": "Samsung Curved Monitor",
+        "price": "1999.0",
+        "brandName": "Samsung Store",
+        "returnDate": "1 Months",
+        "address": "1342, Colorado Street, Suit 32 - 92003"
+      }
+  ]
+}
